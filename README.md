@@ -1,2 +1,8 @@
 # race-equity-City-of-Oakland
-Curricular Practical Training(CPT). working on indicators, data visualizations, statistical tests and machine learning models.
+Curricular Practical Training(CPT).
+Calculating indicators in 2018 and 2019 for Race&Equity, City of Oakland Department.
+Data visualizations for reports.
+Statistical tests.
+Machine Learning models:
+  - Linear Regression: Predicting total personal's earnings.
+  - Logistic Regression: Predicting goverment assistance.
