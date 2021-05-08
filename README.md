@@ -1,5 +1,5 @@
 # race-equity-City-of-Oakland
-Curricular Practical Training(CPT).
+A project for Curricular Practical Training(CPT).
 Calculating indicators in 2018 and 2019 for Race&Equity, City of Oakland Department.
 Data visualizations for reports.
 Statistical tests.
